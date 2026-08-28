@@ -11,4 +11,4 @@ una vez más modificacmos cosas
 >>>>>>> 66316b4 (uno más para saber si tenemos a alguien del otro lado)
 
 Hola soy iván, agregué los juegos Pong y Space invaders
-
+hola soy eliza agrege pacman y mario bros 
